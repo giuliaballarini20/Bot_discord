@@ -9,7 +9,7 @@ const path = require('node:path');
 
 global.fs = require("fs");
 
-global.client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMembers] });
+global.client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 
 
@@ -69,9 +69,5 @@ client.on("interactionCreate", interaction => {
     }
 });
 
-client.on("guildMemberAdd", function(member){
-    console.log(`a user joins a guild: ${member.tag}`);
-	
-});
 
 client.login(token);
