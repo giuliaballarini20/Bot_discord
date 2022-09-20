@@ -42,7 +42,7 @@ Il bot non è sempre attivo, ma deve essere attivato da terminale tramite "node 
 
 ## Utilizzo del Bot Discord B&L
 Per accedere ai comandi l'utente deve accedere a un server in cui tra i membri è presente il bot.
-I comandi sono accessibile tramite l'icona "+" (Usa comando slash) presente nel server Discord oppure si possono trovare digitando "/" e selezionare, in entrambi i casi, il comando che si desidera eseguire.
+I comandi sono accessibili tramite l'icona "+" (Usa comando slash) presente nel server Discord oppure si possono trovare digitando "/" e successivamente in entrambi i casi si deve selezionare il comando che si desidera eseguire.
 Ogni comando ha una azione specifica: 
 
 /aggiungi_libro : l'utente compila i campi necessari per la registrazione sul file di un nuovo libro e in automatico in base al genere viene attribuita un immagine (PUT);
