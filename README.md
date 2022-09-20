@@ -6,7 +6,7 @@ Nome, Cognome e Matricola: Giulia Ballarini 298983
 
 ## Descrizione del Bot
 
-Il progetto ha come fine principale la realizzare di un bot, chiamato **B&L Books and Library**, sulla piattaforma Discord. 
+Il progetto ha come fine principale la realizzarazione di un bot, chiamato **B&L Books and Library**, sulla piattaforma Discord. 
 
 L'utilità del bot si divide in due funzioni princilali di ricerca: il primo legato ai libri, il secondo legato alle librerie (come suggerisce il nome Books and Library).
 Per la parte di libri il bot è in grado di permettere all'utente di accedere ad un archivio di libri (file libri.json) per cercarli in base a genere, autore, editore e titolo. Inoltre l'utente può anche aggiungere nuovi libri sempre tramite l'uso del bot. 
