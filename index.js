@@ -11,8 +11,6 @@ global.fs = require("fs");
 
 global.client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
-
-
 //inizializzazione per Command handling per slash commands
 client.commands = new Collection();
 global.commandsPath = path.join(__dirname, 'slash-commands');
@@ -38,7 +36,7 @@ client.once('ready', () => {
 	console.log('Bot in azione!');
 });
 
-//interazione in caso di slash commands (usati,principalemnte, per ricerca di libri)
+//interazione in caso di slash commands 
 client.on('interactionCreate', async interaction => {
 	if (!interaction.isChatInputCommand()) return;
 
