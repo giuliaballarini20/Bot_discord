@@ -1,0 +1,157 @@
+ [
+        {
+            "id": "p1",
+            "Nome": "Mondadori Bookstore",
+            "Indirizzo": "Via Rossini 33 - 61121 Pesaro",
+            "Catena": "Mondadori",
+            "nTelefono": "0721 31438",
+            "Immagine": "https://thumbs.dreamstime.com/b/mondadori-logo-italian-editor-vector-format-available-illustrator-ai-238095315.jpg", 
+            "mappa": "https://g.page/CampusPesaro?share"    
+        },
+        {
+            "id": "p2",
+            "Nome": "LIBRERIE.COOP",
+            "Indirizzo": "Corso XI Settembre 45-47 - 61121 Pesaro",
+            "Catena": "coop",
+            "nTelefono": "0721 67789",
+            "Immagine": "https://backoffice3.titanka.com/verticalizzazioni/4897/254/upload/1585669088_libreriecoop-quarto.jpg", 
+            "mappa": "https://g.page/libreriecoopPesaro?share"  
+        },
+        {
+            "id": "p3",
+            "Nome": "Libreria Campus Mondadori Bookstore",
+            "Indirizzo": "Via Gioacchino Rossini, 33 - 61121 Pesaro",
+            "Catena": "Mondadori",
+            "nTelefono": "0721 31438",
+            "Immagine": "https://thumbs.dreamstime.com/b/mondadori-logo-italian-editor-vector-format-available-illustrator-ai-238095315.jpg",
+            "mappa": "https://g.page/CampusPesaro?share"   
+        },
+        {
+            "id": "p4",
+            "Nome": "Libreria Nuova Fim Libro",
+            "Indirizzo": "Via Abbati, 39 - 61121 Pesaro",
+            "Catena": "Indipendente",
+            "nTelefono": "0721 69311",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/MSjnhdiDDxQojjqJ6"  
+        },
+        {
+            "id": "p5",
+            "Nome": "Libreria Le Foglie D’Oro Pesaro",
+            "Indirizzo": "Via Niccolò Gavelli, 2 - 61121 Pesaro",
+            "Catena": "Indipendente",
+            "nTelefono": "0721 68612",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png" ,
+            "mappa": "https://goo.gl/maps/JufgKKa8GByDGXudA"  
+        },
+        {
+            "id": "p6",
+            "Nome": "Libreria Didot Pesaro",
+            "Indirizzo": "Via G. Passeri, 34 - 61121 Pesaro",
+            "Catena": "Indipendente",
+            "nTelefono": "0721 179 2496",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/rHT7ncqNqC171MGh8"  
+        },
+        {
+            "id": "p7",
+            "Nome": "Libreria Il Catalogo Di Trengia Giovanni",
+            "Indirizzo": "Via Castelfidardo, 60 - 61121 Pesaro",
+            "Catena": "Indipendente",
+            "nTelefono": "0721 68220",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/JFQkqCwpRdpyeC9v8"   
+        },
+        {
+            "id": "p8",
+            "Nome": "Il Ragno Fumetti & Manga ",
+            "Indirizzo": "Viale XXIV Maggio, 64- 61121 Pesaro",
+            "Catena": "Indipendente",
+            "nTelefono": "339 2859210",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/JFQkqCwpRdpyeC9v8"   
+        },
+        {
+            "id": "u2",
+            "Nome": "Mondadori Bookstore",
+            "Indirizzo": "Via Vittorio Veneto 2 - 61029 Urbino",
+            "Catena": "Mondadori",
+            "nTelefono": "0721 67789",
+            "Immagine": "https://thumbs.dreamstime.com/b/mondadori-logo-italian-editor-vector-format-available-illustrator-ai-238095315.jpg",
+            "mappa": "https://goo.gl/maps/e8atr74eDQ5iyz4v7"  
+        },
+        {
+            "id": "u3",
+            "Nome": "Libreria Universitaria 'Libraccio di Miki' Urbino",
+            "Indirizzo": "Via Aurelio Saffi, 74 - 61029 Urbino",
+            "Catena": "Libraccio",
+            "nTelefono": "0722 329064",
+            "Immagine": "https://th.bing.com/th/id/R.330a0344340346215df466bdc3ec0b49?rik=iYZdhoWmmYqsSw&pid=ImgRaw&r=0" ,
+            "mappa": "https://g.page/libracciourbino?share"  
+        },
+        {
+            "id": "u4",
+            "Nome": "Libreria Moderna Universitaria",
+            "Indirizzo": "Via Giuseppe Mazzini, 7 - 61029 Urbino",
+            "Catena": "Mondadori",
+            "nTelefono": "0722 2722",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/2tMsLjhtiNvJcYq7A" 
+        },
+
+        {
+            "id": "r1",
+            "Nome": "EXLIBRIS",
+            "Indirizzo": "Vicolo Gioia 8 - 47921 Rimini",
+            "Catena": "",
+            "nTelefono": "339 1594699",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://g.page/CampusPesaro?share" 
+        },
+        {
+            "id": "r2",
+            "Nome": "laFeltrinelli Librerie",
+            "Indirizzo": "Largo Giulio Cesare, 4 - 47921 Rimini",
+            "Catena": "Feltrinelli",
+            "nTelefono": "0291 947777",
+            "Immagine": "https://th.bing.com/th/id/OIP.Vy7WVo_izuIwwhFCx6Z8IgAAAA?pid=ImgDet&rs=1",
+            "mappa": "https://goo.gl/maps/VwY6YyPoU39TYUMB7" 
+        },
+        {
+            "id": "r3",
+            "Nome": "Libreria Riminese Di Pecci Mirco",
+            "Indirizzo": "Piazzetta Gregorio da Rimini, 13 - 47921 Rimini",
+            "Catena": "Indipendente",
+            "nTelefono": "0541 26417",
+            "Immagine": "https://i.postimg.cc/yxkQ1xG9/Bot-Book-2.png",
+            "mappa": "https://goo.gl/maps/bEJWEFE9WxLBvYpf9" 
+        },
+        {
+            "id": "r4",
+            "Nome": "Mondadori Bookstore",
+            "Indirizzo": "Piazza Tre Martiri, 6- 47921 Rimini",
+            "Catena": "Mondadori",
+            "nTelefono": "0541 23730",
+            "Immagine": "https://thumbs.dreamstime.com/b/mondadori-logo-italian-editor-vector-format-available-illustrator-ai-238095315.jpg",
+            "mappa": "https://goo.gl/maps/No1Z1GVjZuGyQMGo6" 
+        },
+        {
+            "id": "r5",
+            "Nome": "Mondadori Bookstore",
+            "Indirizzo": "Viale Amerigo Vespucci, 7 - 47921 Rimini",
+            "Catena": "Mondadori",
+            "nTelefono": "0541 27766",
+            "Immagine": "https://thumbs.dreamstime.com/b/mondadori-logo-italian-editor-vector-format-available-illustrator-ai-238095315.jpg",
+            "mappa": "https://g.page/mondadorimare?share" 
+        },
+        {
+            "id": "r6",
+            "Nome": "Libreria del Professionista",
+            "Indirizzo": "Via XXII Giugno 1859, 3- 47921 Rimini",
+            "Catena": "Indipendente",
+            "nTelefono": "0541 52460",
+            "Immagine": "https://th.bing.com/th/id/OIP.6cfyKwraRbjlqxF1UT3-IQHaE7?pid=ImgDet&rs=1",
+            "mappa": "https://goo.gl/maps/UFVM8MVMnmeRfshC9" 
+        }
+            
+    ]
