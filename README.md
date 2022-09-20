@@ -9,7 +9,7 @@ Nome, Cognome e Matricola: Giulia Ballarini 298983
 Il progetto ha come fine principale la realizzare di un bot, chiamato **B&L Books and Library**, sulla piattaforma Discord. 
 
 L'utilità del bot si divide in due funzioni princilali di ricerca: il primo legato ai libri, il secondo legato alle librerie (come suggerisce il nome Books and Library).
-Per la parte di libri il bot è in grado di permettere all'utente di accedere ad un archivio di libri (file libri.json) per cercarli in base a genere, autore, editore e titolo. Inoltre l'utetne può anche aggiungere nuovi libri sempre tramite l'uso del bot. 
+Per la parte di libri il bot è in grado di permettere all'utente di accedere ad un archivio di libri (file libri.json) per cercarli in base a genere, autore, editore e titolo. Inoltre l'utente può anche aggiungere nuovi libri sempre tramite l'uso del bot. 
 Una funzione secodaria è il suggerimento di una lettura di un manga, di cui l'utente può scegliere il genere.
 
 Per la ricerca di librerie è possibile scegliere tra le città di Pesaro, Urbino e Rimini e ottenere informazioni delle librerie del luogo scelto.
@@ -22,7 +22,7 @@ Il progamma è scritto interamente in Javascript
 
 I package utilizzati per l'implementazione sono: node.js, discord.js, undici
 
-Per le funzioni di suggerimento di un manga e di stampa di una citazione sono state usate due API rispettivamente: 
+Per le funzioni di suggerimento di un manga e di stampa di una citazione sono state usate due API, rispettivamente: 
 - Jikan Unofficial MyAnimeList REST API v3.0
 
   API Endpoint: https://api.jikan.moe/v3
@@ -35,6 +35,10 @@ Per le funzioni di suggerimento di un manga e di stampa di una citazione sono st
   API Endpoint: https://got-quotes.herokuapp.com/quotes
   
   API Portal / Home Page: Game of Thrones Quotes https://github.com/wsizoo/game-of-thrones-quotes
+  
+### Descrizione delle modalità della messa online del servizio
+Per accedere al bot è necessario avere accesso al URL del bot generato in modo automatico da Discord, una volta autorizzato e portato il bot sul prorio server tutti i comandi sono eseguibili.
+Il bot non è sempre attivo, ma deve essere attivato da termanale tramite "node ."  
 
 ## Utilizzo del Bot Discord B&L
 Per accedere ai comandi l'utente deve accedere a un server in cui tra i membri è presente il bot.
