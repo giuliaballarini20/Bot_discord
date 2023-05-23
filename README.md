@@ -1,7 +1,5 @@
 # Progetto PDGT a.a. 2021/2022
 
-Nome, Cognome e Matricola: Giulia Ballarini 298983
-
 ## Bot di Archivio Libri e Ricerca Librerie
 
 ## Descrizione del Bot
